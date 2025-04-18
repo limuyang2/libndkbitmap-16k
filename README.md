@@ -3,8 +3,8 @@ bilibili 弹幕库 依赖项目[NativeBitmapFactory](https://github.com/bilibili
 
 **支持 `Android15` `16K`内存分页版本**。
 
+下载-[lib](https://github.com/limuyang2/libndkbitmap-16k/tree/main/libs)
 
 ![截图](https://github.com/limuyang2/libndkbitmap-16k/blob/main/Screenshot.jpg)
 
 
-下载[lib](https://github.com/limuyang2/libndkbitmap-16k/tree/main/libs)
