@@ -1,2 +1,7 @@
 # libndkbitmap-16k
-NativeBitmapFactory-DFM  libndkbitmap.so Android15 16K
+bilibili 弹幕库依赖库[NativeBitmapFactory](https://github.com/bilibili/NativeBitmapFactory) 所编译的 `libndkbitmap.so` 文件，支持的 `Android15` `16K`内存分页版本。
+
+
+![截图](https://github.com/limuyang2/libndkbitmap-16k/blob/main/Screenshot.jpg)
+
+
