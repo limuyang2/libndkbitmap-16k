@@ -7,3 +7,4 @@ bilibili 弹幕库 依赖项目[NativeBitmapFactory](https://github.com/bilibili
 ![截图](https://github.com/limuyang2/libndkbitmap-16k/blob/main/Screenshot.jpg)
 
 
+下载[lib](https://github.com/limuyang2/libndkbitmap-16k/tree/main/libs)
